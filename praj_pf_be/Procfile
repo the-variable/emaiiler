@@ -1,0 +1,1 @@
+web: gunicorn praj_pf_bf.wsgi
